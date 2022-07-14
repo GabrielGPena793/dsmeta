@@ -1,5 +1,15 @@
-# dsmeta
+# Dsmeta
 
+
+Tencnologias do projeto:
+- HTML
+- CSS
+- Javascript
+- React
+- Java
+- Spring Boot
+
+---
 ## Dia 1
 
 - Criar projeto
