@@ -2,9 +2,9 @@
 
 ## Dia 1
 
-- criar projeto
+- Criar projeto
   - Mono repo front e back
-- estruturar e estilizar
-- separar em components
+- Estruturar e estilizar
+- Separar em components
 - Usar o DatePicker para utilização do calendário
 - Usar estados para ter controle dos valores no calendário
