@@ -26,3 +26,12 @@ Tencnologias do projeto:
 - Separar em components
 - Usar o DatePicker para utilização do calendário
 - Usar estados para ter controle dos valores no calendário
+
+
+## Dia 2
+
+- Implementar o back end
+- Acesso a banco de dados
+- Criar endpoints da API REST
+- Integração com SMS
+- Implantação na nuvem
