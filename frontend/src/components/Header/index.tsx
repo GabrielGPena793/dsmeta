@@ -1,7 +1,6 @@
 import "./styles.css"
 import logoImg from "../../assets/img/logo.svg"
 
-
 export function Header() {
   return (
     <header className="container__header_home">
