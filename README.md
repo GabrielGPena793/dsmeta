@@ -17,6 +17,7 @@ Tencnologias do projeto:
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven" />
 </div>
 
+
 ---
 ## Dia 1
 
