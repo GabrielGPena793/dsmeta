@@ -36,3 +36,8 @@ Tencnologias do projeto:
 - Criar endpoints da API REST
 - Integração com SMS
 - Implantação na nuvem
+
+## Dia 3
+
+-  Integrar back end e front end
+- Implantar o front end
