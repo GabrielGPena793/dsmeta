@@ -29,4 +29,9 @@ a:visited {
 
 #sales {
   padding: 40px 10px;
+  background: url(https://data.1freewallpapers.com/download/lines-stripes-glow-dark.jpg) center/cover no-repeat;
+  background-color: #000000c2;
+  background-blend-mode: color;
+  min-height: 100vh;
+
 }

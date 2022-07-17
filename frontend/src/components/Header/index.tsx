@@ -9,7 +9,7 @@ export function Header() {
         <h1>DSMeta</h1>
         <p>
           Desenvolvido por
-          <a href="https://www.instagram.com/devsuperior.ig"> @gabrielgpena</a>
+          <a target="_blank" href="https://www.instagram.com/gabrielgpena"> @gabrielgpena</a>
         </p>
       </div>
     </header>
